@@ -1,0 +1,1 @@
+<img src="css/images/finance.gif" alt="finance" heighy="720">
