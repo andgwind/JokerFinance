@@ -2,4 +2,4 @@
 <img src="css/images/finance.gif" alt="finance">
 
 ## Adaptive version
-<img src="css/images/finance-adap.gif" alt="finance-apaptive">
+<img src="css/images/finance-adap.gif" alt="finances">
