@@ -3,4 +3,4 @@
 
 
 ## Adaptive version
-<img src="css/images/finance-adap.gif" alt="finances">
+<img src="css/images/finances.gif" alt="finances">
